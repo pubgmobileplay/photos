@@ -1,0 +1,11 @@
+@media (max-width: 684px){
+    .col3__div2{
+        display: none;
+    }   
+    .featured__div{
+        display: none;
+    }
+    .col3__div3{
+        display: none;
+    }
+}
